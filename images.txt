@@ -9,3 +9,8 @@ openvidu/openvidu-coturn:2.29.0
 openvidu/openvidu-recording:2.29.0
 openvidu/openvidu-proxy:2.29.0
 kurento/kurento-media-server:7.0.1
+openvidu/openvidu-server:2.30.0
+openvidu/openvidu-call:2.30.0
+openvidu/openvidu-coturn:2.30.0
+openvidu/openvidu-recording:2.30.0
+openvidu/openvidu-proxy:2.30.0
