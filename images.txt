@@ -1,4 +1,4 @@
-ubuntu:22.4
+ubuntu:22.04
 redis
 mysql:8.0.18
 rsunix/yourkit-openjdk17
