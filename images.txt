@@ -1,3 +1,4 @@
+debian:latest
 ubuntu:22.04
 redis
 mysql:8.0.18
