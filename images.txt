@@ -5,7 +5,7 @@ livekit/generate
 livekit/livekit-server
 livekit/caddyl4
 livekit/egress
-livekit/inress
+livekit/ingress
 livekit/livekit-cli
 node18/alpine
 dejwcake/node20-alpine
