@@ -4,9 +4,9 @@ rsunix/yourkit-openjdk17
 livekit/generate
 livekit/livekit-server
 livekit/caddyl4
-redis:7-alpine
-livekit/egress:latest
-livekit/inress:latest
+livekit/egress
+livekit/inress
+livekit/livekit-cli
 node18/alpine
 dejwcake/node20-alpine
 debian:latest
