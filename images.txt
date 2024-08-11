@@ -21,3 +21,7 @@ openvidu/openvidu-recording:2.30.0
 pwa666/bind9
 livekit/generate
 livekit/livekit-server
+livekit/caddyl4
+redis:7-alpine
+livekit/egress:latest
+livekit/inress:latest
