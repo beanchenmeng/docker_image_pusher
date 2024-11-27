@@ -12,3 +12,4 @@ node18/alpine
 dejwcake/node20-alpine
 debian:latest
 ubuntu:22.04
+linuxserver/emulatorjs
