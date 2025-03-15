@@ -13,4 +13,5 @@ dejwcake/node20-alpine
 debian:latest
 ubuntu:22.04
 linuxserver/emulatorjs
-postgres:15.7
+postgres:15.7-bullseye
+postgres:15.7-bookworm
